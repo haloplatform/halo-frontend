@@ -3093,6 +3093,8 @@
 			
 	background-image:url("../../images/home-pic1c.jpg");
 	background-repeat:no-repeat;
+	background-size: cover;
+    height: 65vh;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
